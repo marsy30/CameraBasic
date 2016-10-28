@@ -1,0 +1,7 @@
+#Fri Oct 28 08:44:56 OMST 2016
+base.0=/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1cea9eb6918fb9c295a371e6e442c2b16f100509
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c8fc381842cbc9d349135aa0d80e246c784163aa/classes.dex
+base.1=/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c8fc381842cbc9d349135aa0d80e246c784163aa
+file.0=/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1cea9eb6918fb9c295a371e6e442c2b16f100509/classes.dex

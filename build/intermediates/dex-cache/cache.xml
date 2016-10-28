@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="688c5cd29f08adb528dc7907dc8e8c551830aa95">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1cea9eb6918fb9c295a371e6e442c2b16f100509/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.1.1_e198cab752ae834a1608fe128c92b8185917f2b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_0fcf0bdd446689e2fa5fb94cfbb4986d5c9b6b62.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.1.1_e198cab752ae834a1608fe128c92b8185917f2b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_55674aa567c6ea19fb9bbbc7c68bb6d353333848/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_b276970199927695e624e8933dec7fc07757e562/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="339bf9d045533b1fbab974856cbd54c915b1d9e3">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c8fc381842cbc9d349135aa0d80e246c784163aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_b079f310818b338fba7df9a7b0bd13556fda0a09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_55674aa567c6ea19fb9bbbc7c68bb6d353333848.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_b276970199927695e624e8933dec7fc07757e562.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_b079f310818b338fba7df9a7b0bd13556fda0a09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_99efb22cdf97a0fbd9081dfc37d18d088f59f337/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_acd68b9f411209e4f82cf354f3d7de53a89d130a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_99efb22cdf97a0fbd9081dfc37d18d088f59f337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_acd68b9f411209e4f82cf354f3d7de53a89d130a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_0fcf0bdd446689e2fa5fb94cfbb4986d5c9b6b62/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhannabotova/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_2eace2c229a804dca92409cfaca5cc8d0dbee77b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v13-24.1.1_736c916bab7f08f1b5bb64891c75c53046c839d5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v13/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.1.1_736c916bab7f08f1b5bb64891c75c53046c839d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhannabotova/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/zhannabotova/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_2eace2c229a804dca92409cfaca5cc8d0dbee77b/classes.dex" />
+    </item>
+
+</items>
